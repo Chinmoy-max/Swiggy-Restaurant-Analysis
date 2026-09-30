@@ -17,20 +17,32 @@ DataSet URL https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-da
 Analyze Process
 -------------------
 1.Download the dataset and analyze the dataset in SQL.
+
 2.Data Preparation & Cleaning The Dataset.
+
 3.Perform exploratory analysis.
+
 4.Answer interesting questions from the dataset.
+
 
 Questions
 ---------------
 1.How many restaurants are listed per city?
+
 2.What are the most popular cuisines across India?
+
 3.Which restaurant chains have the most branches?
+
 4.Top 5 cities with highest average restaurant rating?
+
 5.What is the average cost for two across cities?
+
 6.Which cuisines have the highest average rating?
+
 7.Restaurants with rating above 4.5 and more than 1000 ratings
+
 8.Business insight — which city has best value for money?
+
 
 
 
